@@ -2,7 +2,8 @@
 
 ## Edit from Parow
 * Converted as NativeUI
-
+![preview 1](https://i.imgur.com/A3sqcSZ.png)
+![preview 2](https://i.imgur.com/zJSllMO.png)
 ## Requirements
 
 * Auto mode (everyone can buy vehicles from the dealer)
